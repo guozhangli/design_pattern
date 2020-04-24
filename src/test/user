@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<users>
+    <user ss="sdsdf">
+        <name yyy="kik">张三</name>
+        <id>001</id>
+        <age>18</age>
+        <job>工作</job>
+    </user>
+    <user>
+        <name>李国章</name>
+        <id>002</id>
+        <age>20</age>
+        <job>软件</job>
+    </user>
+    <user>
+        <name>无烟年</name>
+        <id>003</id>
+        <age>25</age>
+        <job>老板</job>
+    </user>
+</users>
+
+
