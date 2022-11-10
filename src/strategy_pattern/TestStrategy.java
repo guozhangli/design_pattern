@@ -3,6 +3,7 @@ package strategy_pattern;
 
 public class TestStrategy {
 
+    //策略模式
     public static void main(String[] args) {
 
         Compress compress = new Compress(new GzipCompress());
